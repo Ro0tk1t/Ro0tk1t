@@ -43,7 +43,7 @@ func main(){
       </td>
       <td width="25%" align="center">
         <span>Golang</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/go.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/gopher.svg">
       </td>
       <td width="25%" align="center">
         <span>JavaScript</span><br><br><br>
@@ -66,6 +66,10 @@ func main(){
       <td width="25%" align="center">
         <span>FireFox</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/firefox.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Debian</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/debian.svg">
       </td>
     </tr>
   </tbody>
